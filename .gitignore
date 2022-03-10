@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/huddle_styled_components-main
 
 # testing
 /coverage
